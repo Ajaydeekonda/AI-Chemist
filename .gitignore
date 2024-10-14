@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environments (if using one)
+venv/
+.venv/
+
+# MacOS-specific files
+.DS_Store
+
+# Logs
+*.log
+
+# Streamlit (if applicable)
+.streamlit/
+
+# IDE-specific files
+.vscode/
+.idea/
